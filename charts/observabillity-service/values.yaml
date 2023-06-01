@@ -28,7 +28,7 @@ ignoreRestartsWithExitCodeZero: false
 
 image:
   repository: dockerdarkhan/k8s-restart-info
-  tag: "v1.4.0"
+  tag: "v1.4.1"
 
 resources: 
   limits:
