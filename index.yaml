@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-restart-info:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-01T18:40:01.283658+06:00"
+    description: A Helm chart for Kubernetes
+    digest: 85398cfd1dfdf3dbbd92b38265e0002518488e33ebd596c038bacf13fa92f04b
+    name: k8s-restart-info
+    type: application
+    urls:
+    - https://developerdarkhan.github.io/k8s-restart-info/k8s-restart-info-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-01T18:40:01.283157+06:00"
